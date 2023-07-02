@@ -1,0 +1,17 @@
+
+
+html{
+    background-color: black;
+    text-align: center;
+}
+h3{
+    color: aliceblue;
+}
+h1{
+    color: rgb(240, 240, 117);
+}
+img{
+    border: 2px solid;
+    border-color: rgb(231, 231, 0);
+    padding: 0%;
+}
